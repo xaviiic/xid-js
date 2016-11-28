@@ -1,0 +1,29 @@
+{
+  "name": "xid-js",
+  "version": "1.0.0",
+  "description": "unique id generator for node server",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaviiic/xid-js.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm test -- --watch",
+    "test:coverage": "npm test -- --coverage"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "keywords": [
+    "xid",
+    "object-id",
+    "mongodb-id"
+  ],
+  "author": "xaviiic",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^17.0.3"
+  }
+}
