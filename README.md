@@ -9,7 +9,7 @@ using [Crockford's Base32](http://www.crockford.com/wrmg/base32.html) alphabet s
 
 ## Install
 
-    npm install git+ssh://git@github.com:xaviiic/xid-js.git --save
+    npm install xid-js
 
 ## Usage
 
