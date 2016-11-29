@@ -1,7 +1,7 @@
 {
   "name": "xid-js",
   "version": "1.0.0",
-  "description": "unique id generator for node server",
+  "description": "unique id generator for Node.js",
   "main": "index.js",
   "repository": {
     "type": "git",
